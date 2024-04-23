@@ -26,7 +26,32 @@
 
 #menuinformativo {
     background-color: #EAECE5;
-    padding: 60px;
-    font-size: 25px;
-    padding-left: 150px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.icone {
+    margin: 50px 0px 50px 100px;
+    padding: 20px;
+}
+
+#secaovideo {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.textoinfo {
+    display: flex;
+    align-items: center;
+}
+
+#titulovideo {
+    color: #247BA0;
+    margin-top: 50px;
+}
+
+#video {
+    margin: 50px 25px 50px 100px;
 }
