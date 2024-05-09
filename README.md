@@ -1,1 +1,1 @@
-projeto-landingpage.dnc
+projeto-landingpage
